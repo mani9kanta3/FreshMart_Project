@@ -1,4 +1,4 @@
-# 🛒 FreshMart Sales Performance Dashboard
+# 🛒 FreshMart Revenue Optimization
 
 This project presents a comprehensive sales analysis for **FreshMart**, a U.S.-based grocery retail chain. Using Python and Tableau, we analyzed over 6.7 million transaction records to uncover actionable insights that help FreshMart optimize its sales, pricing, and discount strategies.
 
